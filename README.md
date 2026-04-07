@@ -25,7 +25,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kongyo2&bg_color=0a0e17&color=64ffda&line=64ffda&point=ff7b72&area=true&area_color=1a3a4a&hide_border=true&cache_seconds=86400" width="850" alt="Activity Graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=kongyo2&bg_color=0a0e17&color=64ffda&line=64ffda&point=ff7b72&area=true&area_color=1a3a4a&hide_border=true" width="850" alt="Activity Graph" />
 </div>
 
 <br/>
