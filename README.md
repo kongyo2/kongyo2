@@ -14,7 +14,7 @@
 
 <div align="center">
   <a href="https://github.com/kongyo2">
-    <img src="https://github-readme-stats.vercel.app/api?username=kongyo2&show_icons=true&include_all_commits=true&bg_color=0a0e17&title_color=64ffda&text_color=8b949e&icon_color=64ffda&border_color=1a2e3e&border_radius=8" height="180" alt="GitHub Stats" />
+    <img src="https://github-readme-stats.vercel.app/api?username=kongyo2&show_icons=true&include_all_commits=true&bg_color=0a0e17&title_color=64ffda&text_color=8b949e&icon_color=64ffda&border_color=1a2e3e&border_radius=8&cache_seconds=86400" height="180" alt="GitHub Stats" />
   </a>
   &nbsp;
   <a href="https://github.com/kongyo2">
@@ -31,7 +31,7 @@
 <br/>
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kongyo2&layout=compact&bg_color=0a0e17&title_color=64ffda&text_color=8b949e&border_color=1a2e3e&border_radius=8" height="170" alt="Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=kongyo2&layout=compact&bg_color=0a0e17&title_color=64ffda&text_color=8b949e&border_color=1a2e3e&border_radius=8&cache_seconds=86400" height="170" alt="Top Languages" />
 </div>
 
 <br/>
